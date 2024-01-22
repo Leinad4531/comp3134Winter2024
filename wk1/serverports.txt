@@ -1,0 +1,20 @@
+**Server Port:**
+A server port is a numerical endpoint used to identify specific processes on a server, facilitating communication between applications.
+
+**Server Port Range:**
+Ports are categorized into well-known (0-1023), registered (1024-49151), and dynamic or private (49152-65535) ranges.
+
+**Number of Bits Represented:**
+The number of bits needed to represent a port number depends on the port range used; for example, 16 bits for the full range of 0-65535.
+
+**10 Common Server Ports:**
+1. HTTP (80)
+2. HTTPS (443)
+3. FTP (21)
+4. SSH (22)
+5. Telnet (23)
+6. SMTP (25)
+7. DNS (53)
+8. POP3 (110)
+9. IMAP (143)
+10.MySQL (3306)
