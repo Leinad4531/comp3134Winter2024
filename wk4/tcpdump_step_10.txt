@@ -1,0 +1,35 @@
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 port 22
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+18:11:12.951846 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 564103821:564103929, ack 485744759, win 501, length 108
+18:11:12.951951 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 108:264, ack 1, win 501, length 156
+18:11:12.952043 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 264:368, ack 1, win 501, length 104
+18:11:12.957186 IP 142.189.110.188.51625 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 368, win 2060, length 0
+18:11:13.054523 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 368:564, ack 1, win 501, length 196
+18:11:13.054646 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 564:772, ack 1, win 501, length 208
+18:11:13.054751 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 772:1016, ack 1, win 501, length 244
+18:11:13.054871 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 1016:1216, ack 1, win 501, length 200
+18:11:13.065171 IP 142.189.110.188.51625 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1216, win 2064, length 0
+18:11:13.153977 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 1216:1388, ack 1, win 501, length 172
+18:11:13.154090 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 1388:1596, ack 1, win 501, length 208
+18:11:13.154148 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 1596:1632, ack 1, win 501, length 36
+18:11:13.154232 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 1632:1840, ack 1, win 501, length 208
+18:11:13.154335 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 1840:2048, ack 1, win 501, length 208
+18:11:13.154431 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 2048:2248, ack 1, win 501, length 200
+18:11:13.169199 IP 142.189.110.188.51625 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2248, win 2060, length 0
+18:11:13.257964 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 2248:2420, ack 1, win 501, length 172
+18:11:13.258069 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 2420:2628, ack 1, win 501, length 208
+18:11:13.258133 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 2628:2664, ack 1, win 501, length 36
+18:11:13.258213 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 2664:2836, ack 1, win 501, length 172
+18:11:13.258294 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 2836:2872, ack 1, win 501, length 36
+18:11:13.258374 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 2872:3080, ack 1, win 501, length 208
+18:11:13.258528 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 3080:3288, ack 1, win 501, length 208
+18:11:13.258637 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 3288:3460, ack 1, win 501, length 172
+18:11:13.258743 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 3460:3496, ack 1, win 501, length 36
+18:11:13.258784 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 3496:3660, ack 1, win 501, length 164
+18:11:13.258943 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 3660:3696, ack 1, win 501, length 36
+18:11:13.265129 IP 142.189.110.188.51625 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3696, win 2064, length 0
+^C
+28 packets captured
+44 packets received by filter
+0 packets dropped by kernel

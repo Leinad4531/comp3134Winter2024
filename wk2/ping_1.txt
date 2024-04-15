@@ -1,0 +1,32 @@
+PING google.com (142.251.32.78) 56(84) bytes of data.
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=1 ttl=120 time=1.58 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=2 ttl=120 time=0.860 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=3 ttl=120 time=1.02 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=4 ttl=120 time=0.895 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=5 ttl=120 time=1.02 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=6 ttl=120 time=0.921 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=7 ttl=120 time=1.05 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=8 ttl=120 time=1.23 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=9 ttl=120 time=0.910 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=10 ttl=120 time=0.896 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=11 ttl=120 time=0.882 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=12 ttl=120 time=2.99 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=13 ttl=120 time=1.02 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=14 ttl=120 time=1.04 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=15 ttl=120 time=1.04 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=16 ttl=120 time=0.935 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=17 ttl=120 time=0.989 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=18 ttl=120 time=0.919 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=19 ttl=120 time=0.938 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=20 ttl=120 time=0.896 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=21 ttl=120 time=1.23 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=22 ttl=120 time=0.894 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=23 ttl=120 time=0.917 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=24 ttl=120 time=0.907 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=25 ttl=120 time=0.935 ms
+64 bytes from yyz12s07-in-f14.1e100.net (142.251.32.78): icmp_seq=26 ttl=120 time=0.894 ms
+^C
+--- google.com ping statistics ---
+26 packets transmitted, 26 received, 0% packet loss, time 25039ms
+rtt min/avg/max/mdev = 0.860/1.069/2.994/0.413 ms
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# exit

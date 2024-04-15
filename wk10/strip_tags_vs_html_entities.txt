@@ -1,0 +1,5 @@
+The difference between using strip_tags() and htmlspecialchars() is how they handle user input:
+
+- strip_tags(): This function removes any HTML and PHP tags from the input. It's useful for sanitizing input when you want to allow plain text only. However, it does not prevent XSS attacks, as it does not convert special characters to HTML entities.
+
+- htmlspecialchars(): This function converts special characters to HTML entities. It's useful for preventing XSS attacks by ensuring that user input is displayed as text and not interpreted as HTML. It converts characters like <, >, &, and " to their respective HTML entities.

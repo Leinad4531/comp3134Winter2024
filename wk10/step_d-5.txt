@@ -1,0 +1,8 @@
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => html
+)
+
+it is showing the file in a directory, html file

@@ -1,0 +1,11 @@
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+17:50:03.895660 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 413747769:413747877, ack 485666951, win 501, length 108
+17:50:03.895773 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 108:264, ack 1, win 501, length 156
+17:50:03.895872 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh > 142.189.110.188.51625: Flags [P.], seq 264:368, ack 1, win 501, length 104
+17:50:03.900481 IP 142.189.110.188.51625 > lamponubuntu2204-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 368, win 513, length 0
+17:50:03.994578 IP lamponubuntu2204-s-1vcpu-1gb-tor1-01.39041 > 67.207.67.3.domain: 52233+ [1au] PTR? 188.110.189.142.in-addr.arpa. (57)
+5 packets captured
+41 packets received by filter
+0 packets dropped by kernel

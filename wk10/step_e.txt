@@ -1,0 +1,3 @@
+Prevent Viewing Files and Folders Before the HTML Directory: Use the basename() function to extract the base name of the file or directory from the provided path. This ensures that only the name of the file or directory within the specified directory (e.g., html) is displayed.
+
+Prevent Attempting to Look at Folders That Do Not Exist: Use the file_exists() function to check if the specified file or directory exists before attempting to display its contents. This prevents accessing non-existent files or directories.

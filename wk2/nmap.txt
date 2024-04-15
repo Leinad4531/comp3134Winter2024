@@ -1,0 +1,50 @@
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-04-13 18:08 UTC
+Nmap scan report for google.com (142.251.41.78)
+Host is up (0.0015s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:807::200e
+rDNS record for 142.251.41.78: yyz10s20-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.40 seconds
+
+
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap -p 80 google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-04-13 18:09 UTC
+Nmap scan report for google.com (142.251.41.78)
+Host is up (0.0012s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:807::200e
+rDNS record for 142.251.41.78: yyz10s20-in-f14.1e100.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap -p 1000-2000 google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-04-13 18:10 UTC
+Nmap scan report for google.com (142.251.41.78)
+Host is up (0.0010s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:804::200e
+rDNS record for 142.251.41.78: yyz10s20-in-f14.1e100.net
+All 1001 scanned ports on google.com (142.251.41.78) are filtered
+
+Nmap done: 1 IP address (1 host up) scanned in 4.08 seconds
+
+
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# nmap -F google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-04-13 18:10 UTC
+Nmap scan report for google.com (142.251.32.78)
+Host is up (0.0014s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:804::200e
+rDNS record for 142.251.32.78: yyz12s07-in-f14.1e100.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.07 seconds

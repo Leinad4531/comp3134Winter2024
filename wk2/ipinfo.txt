@@ -1,0 +1,244 @@
+ip: "104.244.42.65"
+type: "ipv4"
+continent_code: "NA"
+continent_name: "North America"
+country_code: "US"
+country_name: "United States"
+region_code: "CA"
+region_name: "California"
+city: "San Francisco"
+zip: 94103
+latitude: 37.7755012512207
+longitude: -122.41291809082031
+location: Object {}
+geoname_id: 5391959
+capital: "Washington D.C."
+languages: Object {}
+code: "en"
+name: "English"
+native: ""English""
+country_flag: "https://assets.ipstack.com/flags/us.svg"
+country_flag_emoji: "🇺🇸"
+country_flag_emoji_unicode: "U+1F1FA U+1F1F8"
+calling_code: "1"
+is_eu: false
+time_zone: Object{}
+id: "America/Los_Angeles"
+current_time: "2024-04-13T10:16:01-07:00"
+gmt_offset: -25200
+code: "PDT"
+is_daylight_saving: true
+currency: Object{}
+code: "USD"
+name: "US Dollar"
+plural: "US dollars"
+symbol: "$"
+symbol_native: "$"
+connection: Object{}
+asn: 13414
+isp: "Twitter Inc."
+security: Object{}
+is_proxy: false
+proxy_type: null
+is_crawler: false
+crawler_name: null
+crawler_type: null
+is_tor: false
+threat_level: "low"
+threat_types: null
+
+ip: "140.82.113.4"
+type: "ipv4"
+continent_code: "NA"
+continent_name: "North America"
+country_code: "US"
+country_name: "United States"
+region_code: "CA"
+region_name: "California"
+city: "San Francisco"
+zip: 94107
+latitude: 37.76784896850586
+longitude: -122.39286041259766
+location: Object {}
+geoname_id: 5391959
+capital: "Washington D.C."
+languages: Object {}
+code: "en"
+name: "English"
+native: ""English""
+country_flag: "https://assets.ipstack.com/flags/us.svg"
+country_flag_emoji: "🇺🇸"
+country_flag_emoji_unicode: "U+1F1FA U+1F1F8"
+calling_code: "1"
+is_eu: false
+time_zone: Object{}
+id: "America/Los_Angeles"
+current_time: "2024-04-13T10:30:49-07:00"
+gmt_offset: -25200
+code: "PDT"
+is_daylight_saving: true
+currency: Object{}
+code: "USD"
+name: "US Dollar"
+plural: "US dollars"
+symbol: "$"
+symbol_native: "$"
+connection: Object{}
+asn: 36459
+isp: "Github Inc."
+security: Object{}
+is_proxy: false
+proxy_type: null
+is_crawler: false
+crawler_name: null
+crawler_type: null
+is_tor: false
+threat_level: "low"
+threat_types: null
+
+ip: "35.186.224.25"
+type: "ipv4"
+continent_code: "NA"
+continent_name: "North America"
+country_code: "US"
+country_name: "United States"
+region_code: "MO"
+region_name: "Missouri"
+city: "Kansas City"
+zip: 64124
+latitude: 39.10771179199219
+longitude: -94.53961181640625
+location: Object {}
+geoname_id: 4393217
+capital: "Washington D.C."
+languages: Object {}
+code: "en"
+name: "English"
+native: ""English""
+country_flag: "https://assets.ipstack.com/flags/us.svg"
+country_flag_emoji: "🇺🇸"
+country_flag_emoji_unicode: "U+1F1FA U+1F1F8"
+calling_code: "1"
+is_eu: false
+time_zone: Object{}
+id: "America/Chicago"
+current_time: "2024-04-13T12:31:18-05:00"
+gmt_offset: -18000
+code: "CDT"
+is_daylight_saving: true
+currency: Object{}
+code: "USD"
+name: "US Dollar"
+plural: "US dollars"
+symbol: "$"
+symbol_native: "$"
+connection: Object{}
+asn: 15169
+isp: "Google LLC"
+security: Object{}
+is_proxy: false
+proxy_type: null
+is_crawler: false
+crawler_name: null
+crawler_type: null
+is_tor: false
+threat_level: "low"
+threat_types: null
+
+ip: "23.215.0.46"
+type: "ipv4"
+continent_code: "NA"
+continent_name: "North America"
+country_code: "US"
+country_name: "United States"
+region_code: "VA"
+region_name: "Virginia"
+city: "Ashburn"
+zip: 20147
+latitude: 39.043701171875
+longitude: -77.47419738769531
+location: Object {}
+geoname_id: 4744870
+capital: "Washington D.C."
+languages: Object {}
+code: "en"
+name: "English"
+native: ""English""
+country_flag: "https://assets.ipstack.com/flags/us.svg"
+country_flag_emoji: "🇺🇸"
+country_flag_emoji_unicode: "U+1F1FA U+1F1F8"
+calling_code: "1"
+is_eu: false
+time_zone: Object{}
+id: "America/New_York"
+current_time: "2024-04-13T13:32:03-04:00"
+gmt_offset: -14400
+code: "EDT"
+is_daylight_saving: true
+currency: Object{}
+code: "USD"
+name: "US Dollar"
+plural: "US dollars"
+symbol: "$"
+symbol_native: "$"
+connection: Object{}
+asn: 20940
+isp: "Akamai International B.V."
+security: Object{}
+is_proxy: false
+proxy_type: null
+is_crawler: false
+crawler_name: null
+crawler_type: null
+is_tor: false
+threat_level: "low"
+threat_types: null
+
+ip: "170.114.52.2"
+type: "ipv4"
+continent_code: "NA"
+continent_name: "North America"
+country_code: "US"
+country_name: "United States"
+region_code: "CA"
+region_name: "California"
+city: "San Jose"
+zip: 95113
+latitude: 37.33406066894531
+longitude: -121.8920669555664
+location: Object {}
+geoname_id: 5392171
+capital: "Washington D.C."
+languages: Object {}
+code: "en"
+name: "English"
+native: ""English""
+country_flag: "https://assets.ipstack.com/flags/us.svg"
+country_flag_emoji: "🇺🇸"
+country_flag_emoji_unicode: "U+1F1FA U+1F1F8"
+calling_code: "1"
+is_eu: false
+time_zone: Object{}
+id: "America/Los_Angeles"
+current_time: "2024-04-13T10:32:31-07:00"
+gmt_offset: -25200
+code: "PDT"
+is_daylight_saving: true
+currency: Object{}
+code: "USD"
+name: "US Dollar"
+plural: "US dollars"
+symbol: "$"
+symbol_native: "$"
+connection: Object{}
+asn: 209242
+isp: "Cloudflare London LLC"
+security: Object{}
+is_proxy: false
+proxy_type: null
+is_crawler: false
+crawler_name: null
+crawler_type: null
+is_tor: false
+threat_level: "low"
+threat_types: null

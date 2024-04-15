@@ -1,0 +1,12 @@
+$ ping 159.203.14.245
+
+Pinging 159.203.14.245 with 32 bytes of data:
+Reply from 159.203.14.245: bytes=32 time=7ms TTL=54
+Reply from 159.203.14.245: bytes=32 time=6ms TTL=54
+Reply from 159.203.14.245: bytes=32 time=6ms TTL=54
+Reply from 159.203.14.245: bytes=32 time=5ms TTL=54
+
+Ping statistics for 159.203.14.245:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 7ms, Average = 6ms

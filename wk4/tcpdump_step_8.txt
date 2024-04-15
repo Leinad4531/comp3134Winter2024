@@ -1,0 +1,17 @@
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# tcpdump -n -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+18:09:06.208334 IP 178.128.238.208.22 > 142.189.110.188.51625: Flags [P.], seq 564010641:564010749, ack 485742915, win 501, length 108
+18:09:06.208438 IP 178.128.238.208.22 > 142.189.110.188.51625: Flags [P.], seq 108:264, ack 1, win 501, length 156
+18:09:06.208508 IP 178.128.238.208.22 > 142.189.110.188.51625: Flags [P.], seq 264:368, ack 1, win 501, length 104
+18:09:06.213938 IP 142.189.110.188.51625 > 178.128.238.208.22: Flags [.], ack 368, win 2064, length 0
+18:09:06.302076 IP 178.128.238.208.22 > 142.189.110.188.51625: Flags [P.], seq 368:876, ack 1, win 501, length 508
+18:09:06.350957 IP 142.189.110.188.51625 > 178.128.238.208.22: Flags [.], ack 876, win 2062, length 0
+18:09:06.405954 IP 178.128.238.208.22 > 142.189.110.188.51625: Flags [P.], seq 876:1136, ack 1, win 501, length 260
+18:09:06.459904 IP 142.189.110.188.51625 > 178.128.238.208.22: Flags [.], ack 1136, win 2061, length 0
+18:09:06.509924 IP 178.128.238.208.22 > 142.189.110.188.51625: Flags [P.], seq 1136:1396, ack 1, win 501, length 260
+18:09:06.567997 IP 142.189.110.188.51625 > 178.128.238.208.22: Flags [.], ack 1396, win 2060, length 0
+^C
+10 packets captured
+14 packets received by filter
+0 packets dropped by kernel

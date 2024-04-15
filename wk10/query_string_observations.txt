@@ -1,0 +1,18 @@
+1) Navigate to the form and type a valid English word
+
+The word was valid, so I got the defination
+
+2) Navigate to the URL and type an invalid English word after the `/browse/` section of the URL
+
+The word does not exist, so it shows "No result found"
+
+3) Navigate to the form and type the following text: <script>alert(%27hello%27)</script>
+
+It shows no result found
+
+4) Navigate to the URL and type the following text: <script>alert(%27hello%27)</script>
+after the `term=` section of the URL
+
+It shows no result
+
+

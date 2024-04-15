@@ -1,0 +1,1 @@
+To mitigate the issue of comments being visible in the browser, we can convert the HTML comments to PHP comments.
